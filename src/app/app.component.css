@@ -1,0 +1,20 @@
+/*Altera a distância dos objetos que pertencem a classe fluig-style-guide superior e esquerda para 50px*/
+
+.fluig-style-guide {
+    padding: 50px 0px 0px 50px;
+}
+
+
+/*Altera a distância dos objetos que pertencem a classe "posicao" em superior: 20px, direita: 200px, inferior: 0 e esquerda para 80px*/
+
+.posicao {
+    padding: 20px 200px 0px 80px;
+}
+
+
+/*Modifica as características dos objetos que pertencem a classe "over" background-color (cor de fundo da linha), formato do cursor*/
+
+.over:hover {
+    background-color: beige;
+    cursor: pointer;
+}
